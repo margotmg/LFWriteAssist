@@ -37,7 +37,10 @@ The structure of the interface consists of the following parts:
 - The slider control, named "Longitud del resumen en %", allows the user to adjust the length of the summary. When choosing 100%, the output text will keep all the information in the source text.
 
 
-STEP 1: 
-- Here, you have to copy paste your original text, in the panel "Campo de entrada" and then click on "Resumir y revisar" 
+STEPS TO FOLLOW: 
+- Copy paste your original text, in the panel "Campo de entrada" and then click on "Resumir y revisar"
+- Choose the lenght of your summary using the slider control "Longitud del resumen en %".
+- Click on "Resumir y revisar". After this, information on the rules will be shown on the panel "Resumido y revisado".
+- Click on "Corregir". After this, you will see the resulting text in the panel "Resumido y corregido". Those parts underlined in green have been automatically corrected, and those parts underlined in orange need to be checked. 
 
 
