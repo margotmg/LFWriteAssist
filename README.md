@@ -4,7 +4,9 @@ This repository contains resources for the paper "LanguageTool as a CAT tool for
 
 # Installation guide for the LFWriteAssist
 
-STEP 1:
+In this repository you have a README file, a grammar.xml file and a LFWriteAssist .zip file. The grammar.xml outside the .zip file and the one inside are DIFFERENT, but they must both be named the same. You will use one to replace the grammar in LanguageTool (see STEP 3), and the other one will stay as it is.   
+
+STEP 1 (if you do not have Python installed):
 - Visit the page: https://www.python.org/downloads/ and download the latest Python version.      	
 - If you are not familiar with Python and/or do not use it regularly, install the appropriate version according to the default settings of the installation. Make a note of the installation path.  
 - "Add python to PATH" should be ticked during the installation.
