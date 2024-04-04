@@ -14,7 +14,7 @@ STEP 2:
 - Install the requirements: "pip install language_tool_python spacy sumy nltk compound-split" and - "python -m spacy download es_core_news_sm".
 
 STEP 3:
-- You must replace the grammar.xml file in LanguageTool
+- You must replace the grammar.xml file in LanguageTool (NOT THE GRAMMAR.XML IN THE .ZIP FILE, THE GRAMMAR OUTSIDE THE .ZIP FILE)
 - You need to go to the directory where you installed Python.
 - Go to the subdirectory: <Python_directory>\Lib\site-packages\language-tool-python\[LanguageTool Version]\org\languagetool\rules\es
 - On most Windows systems, you can use this path: C:\Users\[User of the PC]\AppData\Local\Programs\Python\[Pythonversion]\Lib\site-packages\language-tool-python\[LanguageTool Version]\org\languagetool\rules\es
@@ -23,7 +23,7 @@ STEP 3:
 
 STEP 4:
 - Execute LFWriteAssist
-- Execute the lfwriteassist.py script: "python LanguageApp.py".
+- Execute the lfwriteassist.py script: "python lfwriteassist.py".
 - A window will now open, indicating that the installation has been successfully completed.
 
 
