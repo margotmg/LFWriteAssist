@@ -1,12 +1,12 @@
 # LFWriteAssist
 
-This repository contains resources for the paper "LanguageTool as a CAT tool for Easy-to-Read in Spanish". 
+This repository contains resources for the paper [LanguageTool as a CAT tool for Easy-to-Read in Spanish] (https://aclanthology.org/2024.readi-1.8/). 
 
 # Installation guide for the LFWriteAssist
 
 In this repository you have a README file, a grammar.xml file and a LFWriteAssist .zip file. The grammar.xml outside the .zip file and the one inside are DIFFERENT, but they must both be named the same. You will use one to replace the grammar in LanguageTool (see STEP 3), and the other one will stay as it is.   
 
-STEP 1 (if you do not have Python installed):
+STEP 1 (if you do not have Python installed)
 - Visit the page: https://www.python.org/downloads/ and download the latest Python version.      	
 - If you are not familiar with Python and/or do not use it regularly, install the appropriate version according to the default settings of the installation. Make a note of the installation path.  
 - "Add python to PATH" should be ticked during the installation.
@@ -43,6 +43,11 @@ STEPS TO FOLLOW:
 - Copy paste your original text, in the panel "Campo de entrada" and then click on "Resumir y revisar"
 - Choose the lenght of your summary using the slider control "Longitud del resumen en %".
 - Click on "Resumir y revisar". After this, information on the rules will be shown on the panel "Resumido y revisado".
-- Click on "Corregir". After this, you will see the resulting text in the panel "Resumido y corregido". Those parts underlined in green have been automatically corrected, and those parts underlined in orange need to be checked. 
+- Click on "Corregir". After this, you will see the resulting text in the panel "Resumido y corregido". Those parts underlined in green have been automatically corrected, and those parts underlined in orange need to be checked.
+
+# Citation:
+
+If you use Malmon in your research, please cite our paper:
+Margot Madina, Itziar Gonzalez-Dios, and Melanie Siegel. 2024. LanguageTool as a CAT tool for Easy-to-Read in Spanish. In Proceedings of the 3rd Workshop on Tools and Resources for People with REAding DIfficulties (READI) @ LREC-COLING 2024, pages 93–101, Torino, Italia. ELRA and ICCL.
 
 
