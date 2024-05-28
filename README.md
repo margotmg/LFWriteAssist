@@ -47,7 +47,7 @@ STEPS TO FOLLOW:
 
 # Citation:
 
-If you use Malmon in your research, please cite our paper:
+If you use LFWriteAssist in your research, please cite our paper:
 Margot Madina, Itziar Gonzalez-Dios, and Melanie Siegel. 2024. LanguageTool as a CAT tool for Easy-to-Read in Spanish. In Proceedings of the 3rd Workshop on Tools and Resources for People with REAding DIfficulties (READI) @ LREC-COLING 2024, pages 93–101, Torino, Italia. ELRA and ICCL.
 
 
