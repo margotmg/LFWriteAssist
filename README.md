@@ -1,6 +1,6 @@
 # LFWriteAssist
 
-This repository contains resources for the paper [LanguageTool as a CAT tool for Easy-to-Read in Spanish] (https://aclanthology.org/2024.readi-1.8/). 
+This repository contains resources for the paper [LanguageTool as a CAT tool for Easy-to-Read in Spanish] (https://aclanthology.org/2024.readi-1.8/)
 
 # Installation guide for the LFWriteAssist
 
